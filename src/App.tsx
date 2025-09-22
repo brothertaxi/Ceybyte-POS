@@ -7,7 +7,7 @@
  * ║  Description: Main React component that serves as the entry point for CeybytePOS application.    ║
  * ║               Handles theme configuration and provides global context providers.                 ║
  * ║                                                                                                  ║
- * ║  Author: Akash Hasendra                                                                          ║
+ * ║  Author: Amila                                                                           ║
  * ║  Copyright: 2025 Ceybyte.com - Sri Lankan Point of Sale System                                   ║
  * ║  License: MIT License with Sri Lankan Business Terms                                             ║
  * ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
